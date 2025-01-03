@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+D:\Code\VisualStudio\A_Code\re_3\re_3\FileName.cpp(28,2): error C2760: 구문 오류: 여기서 'void'은(는) 예상치 못한 오류였습니다. 예상된 오류는 ';'였습니다
+      D:\Code\VisualStudio\A_Code\re_3\re_3\FileName.cpp(28,2):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          D:\Code\VisualStudio\A_Code\re_3\re_3\FileName.cpp(6,7):
+          클래스 템플릿 'SimpleVector'을(를) 컴파일하는 동안
+  
+D:\Code\VisualStudio\A_Code\re_3\re_3\FileName.cpp(41,1): error C2059: 구문 오류: '}'
+D:\Code\VisualStudio\A_Code\re_3\re_3\FileName.cpp(41,1): error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
